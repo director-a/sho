@@ -17,6 +17,12 @@
     .main__nav{
         font-size: 65px;
     }
+    .card-text{
+        font-size: 30px;
+    }
+    .comeback__menu{
+        font-size: 40px;
+    }
 }
 @media (min-width: 1101px){
     .sho__banner{
@@ -40,6 +46,12 @@
         }
     .main__nav{
         font-size: 45px;
+    }
+    .card-text{
+        font-size: 20px;
+    }
+    .comeback__menu{
+        font-size: 30px;
     }
 
 }
@@ -111,9 +123,6 @@
     color: #b17a43;
     padding-bottom: 10px;
 }
-.card-text{
-    font-size: 20px;
-}
 .dish__quality{
   text-align: end;  
 }
@@ -124,7 +133,6 @@
 .comeback__menu{
    text-align: center;
     padding-top: 20px;
-    font-size: 30px;
 }
 
 
