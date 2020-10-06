@@ -64,6 +64,9 @@
     flex-flow: column;
 
 }
+.table{
+    margin-bottom: 0;
+}
 
 /*contacts*/
 .inform{
