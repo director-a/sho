@@ -89,10 +89,24 @@
     padding-bottom: 5px;
 }
 
-
-
-
-
+/*menu*/
+.dish__type{
+    text-align: center;
+    font-size: 50px;
+    color: #b17a43;
+    font-family: 'Alfa Slab One', cursive;
+    padding-bottom: 10px;
+}
+.card-text{
+    font-size: 20px;
+}
+.dish__quality{
+  text-align: end;  
+}
+.dish__type__next{
+    padding-top: 30px;
+    color: #b17a43;
+}
 
 
 
