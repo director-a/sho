@@ -1,12 +1,12 @@
 @media (max-width: 1100px){
     .sho__banner{
-        padding-top: 320px;
+        padding-top: 300px;
     }
     .column__main{
         padding-top: 150px;
     }
     .map{
-        margin-top: 330px;
+        margin-top: 300px;
     }
     .inst__icon{
         width: 90px;
@@ -134,6 +134,7 @@
    text-align: center;
     padding-top: 20px;
 }
+/*carousel*/
 
 
 
